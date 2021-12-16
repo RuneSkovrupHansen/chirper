@@ -31,4 +31,4 @@ To learn more about Twilio go to [their website](https://www.twilio.com/).
 
 Adjectives in 'adjectives.csv' gathered from [grammar.yourdictionary.com](https://grammar.yourdictionary.com/parts-of-speech/adjectives/list-of-positive-adjectives.html).
 
-Some of the plain compliments without placeholders in 'templates.txt' gathered from [https://www.verywellmind.com/](https://www.verywellmind.com/positivity-boosting-compliments-1717559).
+Some of the plain compliments without placeholders in 'templates.txt' gathered from [www.verywellmind.com](https://www.verywellmind.com/positivity-boosting-compliments-1717559).
